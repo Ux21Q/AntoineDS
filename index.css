@@ -849,6 +849,9 @@ button {
   z-index: 30;
   border-radius: 16px;
 }
+.rectangle-1c:hover {
+  background: #0056b3; /* changons ici le background du button */
+}
 .lorem-ipsum-text-1d {
   display: flex;
   align-items: flex-start;
